@@ -17,12 +17,7 @@ class _ExampleScreenState extends State<ExampleScreen> {
     1: Icons.square_outlined,
     2: Icons.close,
   };
-  git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/prapotekp/mobile_assisngment.git
-git push -u origin main
+
   @override
   void initState() {
     super.initState();
